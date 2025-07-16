@@ -1,53 +1,42 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Aditya Deshpande 👋</h1>
-<h3 align="center">Generative AI Developer | Machine Learning Engineer | Deep Tech Explorer</h3>
+<h1 align="center">Hi, I'm Aditya Deshpande 👋</h1>
+<h3 align="center">Generative AI Developer • Machine Learning Engineer • Deep Tech Explorer</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:deshpande.aditya2003@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adityadeshpande03">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an enthusiastic and driven **AI Developer** with a deep interest in **Generative AI**, **LLMs**, and **cutting-edge machine learning systems**. I thrive at the intersection of research and practical application — creating AI solutions that don't just work, but *matter*.
+I'm an AI Engineer focused on crafting practical, scalable, and human-centric AI solutions. My work revolves around pushing the boundaries of **Generative AI**, **LLMs**, and **autonomous systems** to solve complex real-world problems.
 
-💡 Passionate about solving **real-world problems** using AI  
-🧠 Skilled in building **LLM-powered tools**, **RAG pipelines**, and **autonomous AI agents**  
-🔬 Constantly exploring the **latest innovations** in AI & ML  
-🎯 Focused on **impactful**, human-centered, and **scalable** solutions
-
----
-
-## 🛠️ Tech Stack & Skills
-
-| Domain | Tools & Frameworks |
-|-------|--------------------|
-| **Languages** | Python, SQL |
-| **ML & DL** | PyTorch, TensorFlow, scikit-learn |
-| **Generative AI** | Hugging Face Transformers, OpenAI API, LangChain |
-| **Search & RAG** | FAISS, Weaviate, ChromaDB |
-| **Model Ops** | Docker, Git, Streamlit, FastAPI |
-| **Concepts** | RAG, Fine-Tuning, Prompt Engineering, AI Agents, LLMOps |
+- 💡 Passionate about creating value-driven AI solutions 
+- 🤖 Specialized in LLMs, RAG pipelines & intelligent agents  
+- 🧠 Always learning, experimenting, and building in the AI space  
+- 🌍 Inspired by the intersection of deep tech and real-world impact  
 
 ---
 
-## 🧠 What I'm Working On
+## 🛠️ Current Focus
 
-- 🤖 Fine-tuning LLMs for task-specific applications  
-- 🧩 Building modular Retrieval-Augmented Generation (RAG) architectures  
-- 🌐 Exploring multi-modal models and VLMs  
-- ⚙️ Developing AI Agents that plan, reason, and act autonomously  
-- 📚 Sharing learnings via open-source and community contributions
-
----
-
-## 📬 Let's Connect
-
-- 📧 **Email**: [email](mailto:deshpande.aditya2003@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin](https://www.linkedin.com/in/adityadeshpande03)
+- 🔧 Fine-tuning Large Language Models (LLMs) for specific domains  
+- 🔍 Designing robust Retrieval-Augmented Generation (RAG) systems  
+- 🧠 Exploring Vision-Language Models (VLMs) and multimodal tasks  
+- 🤝 Building AI Agents that plan, reason, and execute autonomously  
+- 📢 Contributing to open-source, and sharing insights with the community  
 
 ---
 
-> *"Building intelligent systems that bridge code and cognition."*
+> _"Building intelligent systems that bridge code and cognition."_  
+
+---
+
+📫 **Let’s connect!**  
+Feel free to reach out or explore my work here on GitHub — I'm always open to collaboration, research, and meaningful AI conversations.
