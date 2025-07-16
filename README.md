@@ -1,16 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Aditya Deshpande 👋</h1>
-<h3 align="center">Generative AI Developer • Machine Learning Engineer • Deep Tech Explorer</h3>
-
-<p align="center">
-  <a href="mailto:deshpande.aditya2003@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/adityadeshpande03">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
+<h3 align="center">AI • Machine Learning</h3>
 ---
 
 ## 🚀 About Me
