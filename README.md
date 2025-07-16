@@ -28,7 +28,3 @@ I'm an AI Engineer focused on crafting practical, scalable, and human-centric AI
 
 > _"Building intelligent systems that bridge code and cognition."_  
 
----
-
-📫 **Let’s connect!**  
-Feel free to reach out or explore my work here on GitHub — I'm always open to collaboration, research, and meaningful AI conversations.
