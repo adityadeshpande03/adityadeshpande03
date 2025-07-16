@@ -45,15 +45,8 @@ I'm an enthusiastic and driven **AI Developer** with a deep interest in **Genera
 
 ## 📬 Let's Connect
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="160"/>
-</p>
+- 📧 **Email**: [email](mailto:deshpande.aditya2003@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin](https://www.linkedin.com/in/adityadeshpande03)
 
 ---
 
