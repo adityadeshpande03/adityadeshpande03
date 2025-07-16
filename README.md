@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Aditya Deshpande 👋</h1>
 <h3 align="center">AI • Machine Learning</h3>
+
 ---
 
 ## 🚀 About Me
