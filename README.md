@@ -28,5 +28,7 @@ I'm an AI Engineer focused on crafting practical, scalable, and human-centric AI
 
 ---
 
-> _"Building intelligent systems that bridge code and cognition."_  
+> _"Building intelligent systems that bridge code and cognition."_
+
+---
 
