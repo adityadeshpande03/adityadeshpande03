@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm an AI Engineer focused on crafting practical, scalable, and human-centric AI solutions. My work revolves around pushing the boundaries of **Generative AI**, **LLMs**, and **autonomous systems** to solve complex real-world problems.
+AI Engineer focused on crafting practical, scalable, and human-centric AI solutions. My work revolves around pushing the boundaries of **Generative AI**, **LLMs**, and **autonomous systems** to solve complex real-world problems.
 
 - 💡 Passionate about creating value-driven AI solutions 
 - 🤖 Specialized in LLMs, RAG pipelines & intelligent agents  
@@ -20,11 +20,9 @@ I'm an AI Engineer focused on crafting practical, scalable, and human-centric AI
 
 ---
 
-- 🔧 Fine-tuning Large Language Models (LLMs) for specific domains  
 - 🔍 Designing robust Retrieval-Augmented Generation (RAG) systems  
 - 🧠 Exploring Vision-Language Models (VLMs) and multimodal tasks  
 - 🤝 Building AI Agents that plan, reason, and execute autonomously  
-- 📢 Contributing to open-source, and sharing insights with the community  
 
 ---
 
